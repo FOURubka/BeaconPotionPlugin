@@ -1,0 +1,6 @@
+name: BeaconPotionPlugin
+version: '1.0.0'
+main: ua.beaconpotion.BeaconPotionPlugin
+api-version: '1.21'
+author: YourName
+description: Плагін для налаштування маяків за допомогою вибухових зілля
